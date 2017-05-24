@@ -72,3 +72,6 @@ Meets all Assignment Reqs | 6
 Uses idiomatic code style | 3
 Follows proper Git workflow | 1
 **Total** | **10**
+
+# HEROKU deployment
+https://lab13-izzybaer.herokuapp.com/
